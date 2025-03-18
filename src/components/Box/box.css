@@ -1,0 +1,11 @@
+.box {
+  border: 1px solid black;
+  box-shadow: 10px 5px 10px 0px black;
+  width: 400px;
+  padding: 15px 10px;
+  border-radius: 10px;
+  background-color: rgb(39, 131, 235);
+  color: rgb(0, 0, 0);
+  margin-left: 10px;
+  margin-bottom: 10px;
+}

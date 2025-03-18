@@ -1,0 +1,16 @@
+.container {
+  width: 250px;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 10px;
+  gap: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+ .grid-box{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+    border: 1px solid black;
+ }
